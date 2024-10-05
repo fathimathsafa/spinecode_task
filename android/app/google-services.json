@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "912696944114",
+    "project_id": "spinecode-414d5",
+    "storage_bucket": "spinecode-414d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912696944114:android:c6c9d143f6c018e93e376b",
+        "android_client_info": {
+          "package_name": "com.example.task_spine"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9Qxhqsx3yZRXqt0LQGyxIVy9E0KLwakU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
